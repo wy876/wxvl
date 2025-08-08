@@ -126,7 +126,7 @@ def get_doonsec_url():
     cookies = {
         'UM_follow': 'True',
         'UM_distinctids': 'fgmr',
-        'session': 'eyJfcGVybWFuZW50Ijp0cnVlLCJjc3JmX3Rva2VuIjoiMzU2ZDE4OTcwZjliZDljY2NjN2M3YzlkMzRhOGVlZWQyZDk1NmI1ZSIsInZpc3RvciI6ImZHTXJGQXBlVndRUnZrWjJHdWplV2gifQ.ZzidRw.GyjS15N12JYU0TByO31rrwBIiPY',
+        'session': 'eyJfcGVybWFuZW50Ijp0cnVlLCJjc3JmX3Rva2VuIjoiMjJmZWJjNmUxMDdkOGFjNTM1ZTdmZjBmZTE2Y2ViMmRiZTMzYzI5ZSIsInZpc3RvciI6IkU2aVlYWlZqWXZoQVQyaVA1VVhpQXMifQ.aJXWmA.KLXEpqTmgl7G5UfN9V22nY3Jn74',
     }
 
     headers = {
